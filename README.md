@@ -29,7 +29,7 @@ If you can imagine it, you can program it, that's why you should never stop lear
 - 🌱 I’m currently learning Dart / C#  
   
 
-- ⚡ Fun fact: "()()" is not palindrome but ")(()" is
+- ⚡ Fun fact: "( )( )" is not palindrome but ") ( ( )" is
   
 
 - 👾 Game development as a hobby  
