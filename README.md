@@ -26,7 +26,7 @@ If you can imagine it, you can program it, that's why you should never stop lear
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Python / C#  
+- 🌱 I’m currently learning Dart / C#  
   
 
 - ⚡ Fun fact: I prefer Vue than React  
